@@ -10,7 +10,7 @@ int main(){
          << "12401 N MacArthur Blvd         p: (405) 229-8067\n"
          << "Oklahoma City, OK 73142        e: james.a.hall@okstate.edu\n"
          << "                               g: github.com/shinkojiro\n"
-         << "                               t: @reika\n"
+         << "                               t: @lordkojiro\n"
          << "===========================================================";
     return 0;
 }
